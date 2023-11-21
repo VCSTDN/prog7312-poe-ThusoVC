@@ -1,0 +1,229 @@
+000 Generalities
+
+090 Manuscripts & rare books  
+
+091 Manuscripts  
+
+092 Block books  
+
+093 Incunabula  
+
+094 Printed books  
+
+095 Books notable for bindings  
+
+096 Books notable for illustrations  
+
+097 Books notable for ownership or origin  
+
+098 Prohibited works, forgeries, hoaxes  
+
+099 Books notable for format 
+
+ 
+
+100 Philosophy & psychology 
+
+170 Ethics (Moral philosophy)  
+
+171 Systems & doctrines  
+
+172 Political ethics  
+
+173 Ethics of family relationships  
+
+174 Economic & professional ethics  
+
+175 Ethics of recreation & leisure  
+
+176 Ethics of sex & reproduction  
+
+177 Ethics of social relations  
+
+178 Ethics of consumption  
+
+179 Other ethical norms 
+
+ 
+
+200 Religion 
+
+260 Christian social theology  
+
+261 Social theology  
+
+262 Ecclesiology  
+
+263 Times, places of religious observance  
+
+264 Public worship  
+
+265 Sacraments, other rites & acts  
+
+266 Missions  
+
+267 Associations for religious work  
+
+268 Religious education  
+
+269 Spiritual renewa 
+
+ 
+
+300 Social sciences 
+
+330 Economics  
+
+331 Labor economics  
+
+332 Financial economics  
+
+333 Land economics  
+
+334 Cooperatives  
+
+335 Socialism & related systems  
+
+336 Public finance  
+
+337 International economics  
+
+338 Production  
+
+339 Macroeconomics & related topics 
+ 
+
+400 Language 
+
+490 Other languages  
+
+491 East Indo-European & Celtic languages  
+
+492 Afro-Asiatic languages Semitic  
+
+493 Non-Semitic Afro-Asiatic languages  
+
+494 Ural-Altaic, Paleosiberian, Dravidian  
+
+495 Languages of East & Southeast Asia  
+
+496 African languages  
+
+497 North American native languages  
+
+498 South American native languages  
+
+499 Miscellaneous languages 
+ 
+
+500 Natural sciences & mathematics 
+
+550 Earth sciences  
+
+551 Geology, hydrology, meteorology  
+
+552 Petrology 553 Economic geology  
+
+554 Earth sciences of Europe  
+
+555 Earth sciences of Asia  
+
+556 Earth sciences of Africa  
+
+557 Earth sciences of North America  
+
+558 Earth sciences of South America  
+
+559 Earth sciences of other areas   
+ 
+
+600 Technology (Applied sciences) 
+
+660 Chemical engineering  
+
+661 Industrial chemicals technology  
+
+662 Explosives, fuels technology  
+
+663 Beverage technology  
+
+664 Food technology  
+
+665 Industrial oils, fats, waxes, gases  
+
+666 Ceramic & allied technologies  
+
+667 Cleaning, color, related technologies  
+
+668 Technology of other organic products  
+
+669 Metallurgy 
+ 
+
+700 The arts 
+
+790 Recreational & performing arts  
+
+791 Public performances  
+
+792 Stage presentations  
+
+793 Indoor games & amusements  
+
+794 Indoor games of skill  
+
+795 Games of chance  
+
+796 Athletic & outdoor sports & games  
+
+797 Aquatic & air sports  
+
+798 Equestrian sports & animal racing  
+
+799 Fishing, hunting, shooting 
+ 
+
+800 Literature & rhetoric 
+
+840 Literatures of Romance languages 
+
+841 Old and early French to 1400 
+
+842 Transition & renaissance periods, 1400-1600 
+
+843 Classical period, 1600-1715 
+
+844 18th Century, 1715-1789 
+
+845 Revolution to present, 1789-1940/50 
+
+846 Contemporary authors not already established in the UIUC Catalog, 1940/50- 
+
+847 French Canadian 
+
+848 Provencal 
+
+849 French dialect literature 
+ 
+
+900 Geography & history 
+
+980 General history of South America  
+
+981 General history of South America Brazil  
+
+982 General history of South America Argentina  
+
+983 General history of South America Chile  
+
+984 General history of South America Bolivia  
+
+985 General history of South America Peru  
+
+986 General history of South America Colombia & Ecuador  
+
+987 General history of South America Venezuela  
+
+988 General history of South America Guiana
+
+989 General history of South America Paraguay & Uruguay 
